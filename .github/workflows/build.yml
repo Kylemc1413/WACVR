@@ -6,6 +6,7 @@ on:
       - 'Assets/**'
       - 'Packages/**'
       - 'ProjectSettings/**'
+      - 'UserSettings/**'
   workflow_dispatch:
 
 jobs:
